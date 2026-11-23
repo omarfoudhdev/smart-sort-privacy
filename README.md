@@ -1,6 +1,6 @@
-# Smart Sort — Privacy Policy
+# Pipo Liquid Sort — Privacy Policy
 
-Public privacy policy for the Smart Sort Android game (`com.fddev.smartsort`), in 10 languages.
+Public privacy policy for the Pipo Liquid Sort Android game (`com.fddev.smartsort`), in 14 languages.
 
 Live: https://omarfoudhdev.github.io/smart-sort-privacy/
 
@@ -14,3 +14,7 @@ Live: https://omarfoudhdev.github.io/smart-sort-privacy/
 - [Bahasa Indonesia](id.html)
 - [हिन्दी](hi.html)
 - [العربية](ar.html)
+- [اردو](ur.html)
+- [فارسی](fa.html)
+- [Kiswahili](sw.html)
+- [Nederlands](nl.html)
